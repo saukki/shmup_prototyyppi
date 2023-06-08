@@ -10,14 +10,20 @@ Tämä Unity-projekti tehtiin [opinnäytetyötä](https://urn.fi/URN:NBN:fi:amk-
 
 3. Lisää oma 9:16 kuvasuhde ja valitse se kuvan mukaisesti
 
-![kuvasuhde 9:16](docs/images/custom_resolution.jpg)
+
+![9:16 kuvasuhde](https://github.com/saukki/shmup_prototyyppi/assets/30697178/1bb443ec-aeb9-4647-a40a-5ca0648ec911)
+
 
 4. Pelin pitäisi olla pelattavissa editorissa
 
-![prototyyppi animaatio](docs/images/prototyyppi_animaatio.gif)
+
+![prototyyppi_animaatio](https://github.com/saukki/shmup_prototyyppi/assets/30697178/e5c9a6d4-857b-42f3-af45-ef54bfbd8351)
+
 
 5. Testien pitäisi olla näkyvissä ja ajettavissa
 
-![prototyyppi testit](docs/images/editori.jpg)
+
+![editori](https://github.com/saukki/shmup_prototyyppi/assets/30697178/d52bd1ff-d787-490a-9391-9f773faf4f8d)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
